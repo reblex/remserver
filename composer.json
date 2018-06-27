@@ -17,7 +17,7 @@
         "issues": "https://github.com/canax/remserver/issues"
     },
     "autoload": {
-        "psr-4": { 
+        "psr-4": {
             "Anax\\": "src/"
         }
     },
